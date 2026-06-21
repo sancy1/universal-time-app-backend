@@ -49,11 +49,6 @@ Universal Time API Backend is a production-ready service for timezone discovery,
 - Monitoring
 - Version History
 
----
-
-> **FULL_PRO Edition:** All original sections, SQL schema, endpoint examples, response examples, deployment instructions, architecture notes, security details, monitoring details, and version history are preserved below.
-
----
 
 # Universal Time API Backend
 
