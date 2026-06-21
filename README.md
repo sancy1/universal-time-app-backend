@@ -540,10 +540,6 @@ CORS is enabled for all origins in development. Restrict origins in production b
 
 This project is licensed under the ISC License.
 
-## 🆘 Support
-
-For support, email support@universaltime.dev or open an issue in the repository.
-
 ## 🔗 Related Projects
 
 - **Frontend**: [Universal Time Frontend](../universal-time-app/) - Next.js frontend application
@@ -811,13 +807,13 @@ The `NEXT_PUBLIC_` prefix makes the variable available in the browser, allowing 
 
 ## 📚 Documentation
 
-- **Backend README**: [universal-time-app-backend/README.md](./universal-time-app-backend/README.md)
+- **Backend README**: https://github.com/sancy1/universal-time-app-backend/blob/main/README.md
   - API endpoints
   - Database schema
   - Deployment instructions
   - Architecture details
 
-- **Frontend README**: [universal-time-app/README.md](./universal-time-app/README.md)
+- **Frontend README**: https://github.com/sancy1/universal-time/blob/main/README.md
   - Component documentation
   - UI features
   - Development setup
@@ -975,7 +971,7 @@ This project is licensed under the ISC License.
 
 ## 🆘 Support
 
-For support, email support@universaltime.dev or open an issue in the repository.
+For support, email alexander.s.cyril@gmail.com or open an issue in the repository.
 
 ## 🔗 Links
 
